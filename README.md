@@ -2,6 +2,11 @@
 
 In this walkthrough, we will explore handling problem tickets using osTicket, an open source solution similar to ServiceNow and Jira.
 
+## Technology used
+
+* Windows 10 Pro
+* osTicket
+
 ## Ticket examples
 
 ### User's perspective - mobile & online banking offline for accounting department
